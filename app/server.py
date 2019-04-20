@@ -9,8 +9,8 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://s3.ap-south-1.amazonaws.com/dataset-fyp/fastAI/export.pkl'
-export_file_name = 'export.pkl'
+export_file_url = 'https://s3.ap-south-1.amazonaws.com/dataset-fyp/fastAI/vgg-16-stage1-new.pkl'
+export_file_name = 'vgg-16-stage1-new.pkl'
 
 classes = ['cardboard', 'glass', 'metal', 'paper','plastic']
 path = Path(__file__).parent
