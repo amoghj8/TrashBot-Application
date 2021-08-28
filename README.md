@@ -1,3 +1,3 @@
 # Deep Learning Application for segregating garbage
 
-The model was built using fast.ai libraries and is being hosted on [render](https://render.com/)
+Developed an all-terrain robot to segregate garbage into five categories - glass, cardboard, metal, plastic, and paper. The robot uses deep learning for segregation and has a robotic arm for picking the object.
